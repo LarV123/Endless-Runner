@@ -19,5 +19,7 @@
   },
   "typeRoots": "./node_modules/phaser/types",
   "types": "Phaser",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
