@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack",
-    "start": "node app.js",
-    "heroku-postbuild": "webpack -p"
+    "start": "node app.js"
   },
   "author": "Geizka Fahriza",
   "license": "ISC",
